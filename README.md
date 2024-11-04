@@ -21,7 +21,7 @@ Installation
 
 1. Clone the Repository:
    bash
-   git clone https://github.com/YourUsername/YourRepositoryName.git
+   git clone https://github.com/SamiullahZafar/Face-Recognition-Using-Node-MCU-and-Mobile-APP.git
    cd YourRepositoryName
    
 
